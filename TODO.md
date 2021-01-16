@@ -1,18 +1,18 @@
 # Crafty - To do list
 
-- [ ] Mods: OptiFine
-- [ ] Mods: Unlimited CPS (warning: bannable)
+- [ ] Mods: OptiFine (enabled by default)
+- [ ] Mods: Unlimited CPS (disabled by default) (warning: bannable)
 - [ ] Account Management
 - [ ] Support all methods of sign in
-- [ ] Built-in Modloader support
+- [ ] Built-in Modloader support (Cloth, Fabric, Forge, LiteLoader)
 - [ ] Translations (Gibberish, Spanish, etc)
 - [ ] MultiMC Support
 - [ ] Minimal Footprint (RAM, CPU, GPU, etc)
 - [ ] Integration: Discord
 - [ ] Any version of Minecraft (Java & Bedrock)
-- [ ] Mods: Keystrokes
-- [ ] Mods: FPS Display
-- [ ] Mods: Ping Display
+- [ ] Mods: Keystrokes (disabled by default)
+- [ ] Mods: FPS Display (disabled by default)
+- [ ] Mods: Ping Display (disabled by default)
 - [ ] Modified Name Card
 ```
   +-------------+
@@ -30,4 +30,4 @@ The (C) represents the Crafty badge, the USERNAME represents the username (might
 - [ ] Streamer Mode
 - [ ] Rank: PIG (pink, for Technoblade)
 - [ ] Rank: GREEN (green, for Dream)
-- [ ] Mods: Cloth Capes
+- [ ] Mods: Cloth Capes (enabled by default)
